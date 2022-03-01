@@ -1,4 +1,4 @@
-# Skills_Lab_7
+# Skills_Lab_6
 
 Our program takes in two inputs, a name and age, and tells you your age tow years prior!
 To use our program, you first need to download the python notebook and have a software that can run a python notebook. We suggest using JupyterHub!
